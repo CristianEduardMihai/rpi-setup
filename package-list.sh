@@ -1,1 +1,1 @@
-sudo apt update && sudo apt -y upgrade && sudo apt -y install neofetch && sudo apt -y autoremove
+sudo apt update && sudo apt -y upgrade && sudo apt -y install neofetch && sudo apt -y install git && sudo apt -y autoremove
